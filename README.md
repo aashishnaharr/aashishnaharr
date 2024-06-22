@@ -1,35 +1,42 @@
-<h1 align="center">Hi 👋, I'm Aashish Nahar</h1>
-<h3 align="center">with 7+ years of experience in data science, machine learning, and strategic consulting.</h3>
+<h2>Aashish Nahar Rajendra Kumar Nahar</h2>
 
-- 🔭 I’m currently working with **Isola USA Corp as Senior Data Scientist**
+<p><strong>Senior Strategy Consultant & Data Scientist</strong></p>
 
-<h3 align="center">
-🔍 Expertise:
-<p>• Data Science & ML: Python, R, SQL, TensorFlow, scikit-learn
-• Strategic Consulting: Driving product innovation and operational efficiency
-• Product Management: End-to-end development and market launch</p>
+<p>👋 Hi, I'm Aashish, with 7+ years of experience in data science, machine learning, and strategic consulting.</p>
 
-💼 Professional Highlights:
-• Isola USA Corp: Led polymer development and ML models, boosting efficiency by 50% and securing $200M contracts
-• Global Mechanical/FEA Engineering: Enhanced manufacturing inputs with neural networks
-• Product Development: Elevated material performance and drove innovation
+<h3>🔍 Expertise:</h3>
+<ul>
+  <li><strong>Data Science & ML:</strong> Python, R, SQL, TensorFlow, scikit-learn</li>
+  <li><strong>Strategic Consulting:</strong> Driving product innovation and operational efficiency</li>
+  <li><strong>Product Management:</strong> End-to-end development and market launch</li>
+</ul>
 
-🔧 Skills:
-• Programming: Python, R, SQL, C, C++, Fortran
-• Data Analysis: pandas, NumPy, Tableau
-• Web Development: Flask, HTML, CSS
-• Tools: Docker, Jupyter Notebook, Git, SAP
-</h3>
+<h3>💼 Professional Highlights:</h3>
+<ul>
+  <li><strong>Isola USA Corp:</strong> Led polymer development and ML models, boosting efficiency by 50% and securing $200M contracts</li>
+  <li><strong>Global Mechanical/FEA Engineering:</strong> Enhanced manufacturing inputs with neural networks</li>
+  <li><strong>Product Development:</strong> Elevated material performance and drove innovation</li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-• LinkedIn:
-<a href="https://linkedin.com/in//in/aashishnaharr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/aashishnaharr" height="30" width="40" /></a>
-• Email: aashishnaharr@gmail.com
-Let's connect and collaborate!
-</p>
+<h3>🔧 Skills:</h3>
+<ul>
+  <li><strong>Programming:</strong> Python, R, SQL, C, C++, Fortran</li>
+  <li><strong>Data Analysis:</strong> pandas, NumPy, Tableau</li>
+  <li><strong>Web Development:</strong> Flask, HTML, CSS</li>
+  <li><strong>Tools:</strong> Docker, Jupyter Notebook, Git, SAP</li>
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3>🌱 Interests:</h3>
+<ul>
+  <li>AI & ML advancements</li>
+  <li>Data-driven solutions</li>
+  <li>Continuous learning</li>
+</ul>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishnaharr&show_icons=true&locale=en&layout=compact" alt="aashishnaharr" /></p>
+<h3>📫 Contact:</h3>
+<ul>
+  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/aashishnaharr">linkedin.com/in/aashishnaharr</a></li>
+  <li><strong>Email:</strong> <a href="mailto:aashishnaharr@gmail.com">aashishnaharr@gmail.com</a></li>
+</ul>
+
+<p>Explore my repositories for projects in data science and ML. Let's connect and collaborate!</p>
